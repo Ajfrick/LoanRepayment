@@ -1,0 +1,12 @@
+name: LoanRepayment
+title: LoanRepayment
+username:
+account: bruinstats13
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 953743
+bundleId: 2117017
+url: https://bruinstats13.shinyapps.io/LoanRepayment/
+when: 1559170334.33917
+asMultiple: FALSE
+asStatic: FALSE
